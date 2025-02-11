@@ -1,0 +1,76 @@
+[33mcommit 31f4393d38f4e572e57b733557c1a0edcaf5e663[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m)[m
+Author: Jonathan Esparza <jonaeb09@gmail.com>
+Date:   Wed Feb 5 20:49:35 2025 -0700
+
+    esel clone committ
+
+[33mcommit 8c3ce8d4e5b9c43250200a1ec58a1340fc05fcbc[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: d4475fd ea39d7b
+Author: EL Tai Yahia <yahiaeltai022@gmail.com>
+Date:   Mon Dec 12 17:44:56 2022 +0100
+
+    Merge pull request #7 from Abdus-somod/master
+    
+    Update README.md
+
+[33mcommit ea39d7b3010b0240fa7d0c381800e1072a51a37f[m
+Author: Abdul Samod <97042647+Abdus-somod@users.noreply.github.com>
+Date:   Mon Aug 15 13:04:39 2022 +0100
+
+    Update README.md
+
+[33mcommit d4475fd0eda32510fc474dd1234b604b37abd1af[m
+Merge: 678011e f80db68
+Author: EL Tai Yahia <yahiaeltai022@gmail.com>
+Date:   Sun Mar 13 23:26:11 2022 +0100
+
+    Merge pull request #2 from rahulasher110/patch-1
+    
+    fix spelling mistakes in Readme.md file
+
+[33mcommit f80db687b2e0c4e0cd16c644c68a228348cc4d35[m
+Author: RAHUL KUMAR <76699906+rahulasher110@users.noreply.github.com>
+Date:   Sat Jan 2 22:16:43 2021 +0530
+
+    fix spelling mistakes in Readme.md file
+
+[33mcommit 678011efc9b6fd152eca2fd9db50588908c5f975[m
+Merge: 251e7ff 05bbab3
+Author: EL Tai Yahia <yahiaeltai022@gmail.com>
+Date:   Mon Dec 28 22:39:03 2020 +0100
+
+    Merge pull request #1 from Swapnil-Gaur/patch-1
+    
+    Update position
+
+[33mcommit 05bbab3d953f3275f93ca7c89189f7d9e2b6381a[m
+Author: Swapnil Sunil Chaudhari <71397235+Swapnil-Gaur@users.noreply.github.com>
+Date:   Thu Dec 24 13:10:26 2020 +0530
+
+    Update position
+    
+    Make position relative
+
+[33mcommit 251e7ff92dc9969c7fd671182cdd7ee1f76fdd80[m
+Author: Yahia El Tai <yahiaeltai114@gmail.com>
+Date:   Wed Mar 20 12:53:09 2019 +0100
+
+    host website with surge.sh
+
+[33mcommit 96c125101e4861030b8c71173df51aa98d600fa2[m
+Author: Yahia El Tai <yahiaeltai114@gmail.com>
+Date:   Thu Jan 25 20:21:57 2018 +0100
+
+    add new project Fudi
+
+[33mcommit 3230b26855c55112dd208ad53cc0bd5aba844ef8[m
+Author: EL Tai Yahia <yahiaeltai114@gmail.com>
+Date:   Wed Sep 13 08:19:44 2017 +0200
+
+    Create README.md
+
+[33mcommit 33d245cc0f7ae210757121f520d03d0dd9dd1735[m
+Author: Yahia El Tai <yahiaeltai114@gmail.com>
+Date:   Wed Sep 13 07:02:48 2017 +0200
+
+    Init commit
